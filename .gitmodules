@@ -1,0 +1,21 @@
+[submodule "hw1-sberkson"]
+	path = hw1-sberkson
+	url = https://github.com/Gonzaga-CPSC-223-Fall-2021/hw1-sberkson
+[submodule "hw3-sberkson"]
+	path = hw3-sberkson
+	url = https://github.com/Gonzaga-CPSC-223-Fall-2021/hw3-sberkson
+[submodule "hw4-sberkson"]
+	path = hw4-sberkson
+	url = https://github.com/Gonzaga-CPSC-223-Fall-2021/hw4-sberkson
+[submodule "hw5-sberkson"]
+	path = hw5-sberkson
+	url = https://github.com/Gonzaga-CPSC-223-Fall-2021/hw5-sberkson
+[submodule "hw6-sberkson"]
+	path = hw6-sberkson
+	url = https://github.com/Gonzaga-CPSC-223-Fall-2021/hw6-sberkson
+[submodule "hw7-sberkson"]
+	path = hw7-sberkson
+	url = https://github.com/Gonzaga-CPSC-223-Fall-2021/hw7-sberkson
+[submodule "hw8-sberkson"]
+	path = hw8-sberkson
+	url = https://github.com/Gonzaga-CPSC-223-Fall-2021/hw8-sberkson
